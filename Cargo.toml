@@ -1,0 +1,14 @@
+[package]
+name         = "alnico"
+version      = "0.0.0"
+edition      = "2024"
+description  = "A competitor to JUCE for Rust: DSP, device I/O, plugin formats and a GUI toolkit for building and shipping audio plugins. Placeholder — under active development."
+license      = "MIT OR Apache-2.0"
+repository   = "https://github.com/NotTheDj/alnico-audio"
+homepage     = "https://github.com/NotTheDj/alnico-audio"
+documentation = "https://docs.rs/alnico"
+readme       = "README.md"
+keywords     = ["audio", "dsp", "audio-plugin", "clap", "vst"]
+categories   = ["multimedia::audio", "development-tools"]
+
+[dependencies]
