@@ -1,6 +1,6 @@
 [package]
 name         = "alnico"
-version      = "0.0.0"
+version      = "0.0.1"
 edition      = "2024"
 description  = "An audio framework for Rust: DSP, device I/O, plugin formats and a GUI toolkit for building and shipping audio plugins. Placeholder — under active development."
 license      = "MIT OR Apache-2.0"

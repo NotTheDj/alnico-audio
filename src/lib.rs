@@ -11,4 +11,4 @@
 //! feature flags (`dsp`, `gui`, `clap`, `vst3`, `au`, …), so the common case is
 //! one dependency line and the specialist case is a handful of crates.
 
-#![doc(html_root_url = "https://docs.rs/alnico/0.0.0")]
+#![doc(html_root_url = "https://docs.rs/alnico/0.0.1")]
