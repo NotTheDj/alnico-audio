@@ -1,6 +1,6 @@
 //! # Alnico
 //!
-//! A competitor to JUCE for Rust: everything needed to build and ship an audio
+//! An audio framework for Rust: everything needed to build and ship an audio
 //! plugin — DSP, device I/O, plugin formats, and a GUI toolkit — under a
 //! permissive licence, with realtime safety enforced by the type system.
 //!

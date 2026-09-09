@@ -1,7 +1,7 @@
 # Alnico
 
-**A competitor to JUCE for Rust** — the whole path from "I have a filter" to
-"signed `.vst3` that loads in Logic", built on what audio development actually
+**An audio framework for Rust** — the whole path from "I have a filter" to
+"signed plugin that loads in your DAW", built on what audio development actually
 looks like in 2026, and permissively licensed.
 
 > ⚠️ **This release reserves the name. Nothing is implemented yet.**
@@ -21,9 +21,9 @@ guitar pickups.
   processor with no DAW anywhere, golden-audio and property testing, and one
   command to sign, notarize and package
 
-The wedge is developer experience. Today, changing one line of DSP means
-recompile, relaunch the DAW, rescan, reload, re-navigate, re-trigger. That is
-the problem this project exists to delete.
+The focus is developer experience. Today, changing one line of DSP typically
+means recompile, relaunch the DAW, rescan, reload, re-navigate, re-trigger.
+That is the problem this project exists to delete.
 
 ## Status
 
